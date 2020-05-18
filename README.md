@@ -1,4 +1,8 @@
-# please extract the store zip (as github dose not allow more than 25mb file)
+# please extract the Microsoft.DesktopAppInstaller_1.6.29000.1000_neutral_~_8wekyb3d8bbwe.AppxBundle.zip 
+(as github dose not allow more than 25mb file)
+
+
+
 # windows-store-offline-install
 ##tested on Windows 10 version 1709 and later (shuld work for before )##
 works on any windows 10 
