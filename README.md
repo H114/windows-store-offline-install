@@ -1,3 +1,4 @@
+# please extract the store zip (as github dose not allow more than 25mb file)
 # windows-store-offline-install
 ##tested on Windows 10 version 1709 and later (shuld work for before )##
 works on any windows 10 
